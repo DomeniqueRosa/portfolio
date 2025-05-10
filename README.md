@@ -5,7 +5,7 @@ Este repositório reúne os desafios que desenvolvi como prática a partir da pl
 
 ## 🌐 Acesse o Portfólio Online
 
-➡️ [DomeniqueRosa.github.io](https://DomeniqueRosa.github.io)
+➡️ [Site portfólio](https://portfolio-git-master-domeniquerosas-projects.vercel.app/)
 
 ---
 

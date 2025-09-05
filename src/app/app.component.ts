@@ -14,6 +14,12 @@ export class AppComponent {
 
   projetos = [
     {
+      nome : 'Meme Generate',
+      descricao : 'Faça memes com as frases que você mais gosta',
+      link: 'https://portfolio-react-bxf1.vercel.app/',
+      image: '../assets/meme_generate.jpg'
+    },
+    {
       nome : 'browser extensions',
       descricao : 'Página que gerencia as extensões do navegador, permitindo administrá-las',
       link : 'https://portfolio-react-rust-six.vercel.app/',

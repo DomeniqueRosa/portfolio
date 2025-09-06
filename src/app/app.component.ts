@@ -16,14 +16,14 @@ export class AppComponent {
     {
       nome : 'Assistende de Receita',
       descricao : 'Obtenha receitas com a lista de ingredientes disponivel.',
-      link : 'https://portfolio-react-4jtm-d8ta0djq3-domeniquerosas-projects.vercel.app/',
-      imagem : '../assets/chef.png'
+      link : 'https://portfolio-react-4jtm.vercel.app/',
+      imagem :'../assets/chef.png'
     },
     {
       nome : 'Meme Generate',
       descricao : 'Faça memes com as frases que você mais gosta',
       link: 'https://portfolio-react-bxf1.vercel.app/',
-      imagem: '../assets/meme_generate.jpg'
+      imagem :'../assets/meme_generate.jpg'
     },
     {
       nome : 'browser extensions',

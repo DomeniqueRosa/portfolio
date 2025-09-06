@@ -14,16 +14,22 @@ export class AppComponent {
 
   projetos = [
     {
+      nome : 'Assistende de Receita',
+      descricao : 'Obtenha receitas com a lista de ingredientes disponivel.',
+      link : 'https://portfolio-react-4jtm-d8ta0djq3-domeniquerosas-projects.vercel.app/',
+      imagem : '../assets/chef.png'
+    },
+    {
       nome : 'Meme Generate',
       descricao : 'Faça memes com as frases que você mais gosta',
       link: 'https://portfolio-react-bxf1.vercel.app/',
-      image: '../assets/meme_generate.jpg'
+      imagem: '../assets/meme_generate.jpg'
     },
     {
       nome : 'browser extensions',
       descricao : 'Página que gerencia as extensões do navegador, permitindo administrá-las',
       link : 'https://portfolio-react-rust-six.vercel.app/',
-      image :'../assets/browser-extension.png' 
+      imagem :'../assets/browser-extension.png' 
     },
 
     {
